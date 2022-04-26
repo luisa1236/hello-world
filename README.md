@@ -1,2 +1,3 @@
 # hello-world
-inicioen git hub
+inicio en git hub 
+hoy puede crear un readme siguiend instrucciones
